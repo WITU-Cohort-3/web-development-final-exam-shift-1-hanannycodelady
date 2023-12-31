@@ -1,0 +1,18 @@
+body{
+    background-color: hotpink;
+}
+
+h1{
+    font-style: italic;
+    text-align: center;font-size: 1000px;
+    color: rgb(0, 183, 255);
+    font-size: larger;
+    
+}
+p{
+    text-align: center;
+    color: rgb(47, 0, 255);
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: coral;
+}
